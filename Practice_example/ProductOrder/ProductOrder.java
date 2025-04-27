@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class ProductOrder {
+    String productName;
+    int price;
+    int quantity;
 }
